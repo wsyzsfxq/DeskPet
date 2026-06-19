@@ -30,3 +30,7 @@ DeskPet should feel like a small digital creature sharing the computer with the 
 Warm, quiet, a little strange, and low-interruption.
 
 The experience should emphasize companionship over productivity pressure. AI features should make the pet feel more aware and alive, not turn it into an intrusive work assistant.
+
+## Docs
+
+- Product and setting notes: `docs/设定集/`

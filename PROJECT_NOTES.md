@@ -1,5 +1,7 @@
 # DeskPet Project Notes
 
+Setting and product-vision documents now live under `docs/设定集/`.
+
 ## Product Direction
 
 DeskPet is a desktop pet first, with AI companion features later.
